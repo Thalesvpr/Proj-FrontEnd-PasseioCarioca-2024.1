@@ -13,3 +13,10 @@ O site será mais utilizado por turistas querendo visitar o Rio de Janeiro, ou a
 
 ## Where (Onde?):
 O site será hospedado em servidores de hospedagem na web confiáveis e altamente escaláveis, garantindo assim sua disponibilidade e desempenho consistentes. Além de estar acessível nos mecanismos de busca líderes, como o Google, será amplamente divulgado através das redes sociais da empresa, maximizando sua visibilidade e alcance.
+
+## When (Quando?):
+Quando o usuário estiver viajando pelo Rio de Janeiro e demonstrar interesse em explorar os pontos turísticos da cidade, tambem quando o usuário buscar planejar suas visitas e passeios pelo Rio.
+
+## How (Como?):
+Utilizando as melhores práticas de desenvolvimento web com react,
+para interfaces intuitivas, layout atraente utilizando conceitos de UX/UI, SEO para otimização de buscas.
