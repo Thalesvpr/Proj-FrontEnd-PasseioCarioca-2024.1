@@ -7,3 +7,6 @@ O Website irá conter uma apresentação detalhada do aplicativo, além de um co
 
 ## Why (Por que?):
 O objetivo principal do WebSite é aumentar a visibilidade e o número de downloads do aplicativo. Além disso também tem o propósito de fortalecer a marca Passeio Carioca e oferecer conteúdo de valor para os usuários.
+
+## Who (Quem?):
+O site será mais utilizado por turistas querendo visitar o Rio de Janeiro, ou até mesmo moradores do próprio Rio que queiram visitar certos pontos de interesse da cidade.
