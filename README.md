@@ -1,2 +1,9 @@
 # Proj-FrontEnd-PasseioCarioca-2024.1
- 
+
+# 5w2h
+
+## What (O que ?):
+O Website irá conter uma apresentação detalhada do aplicativo, além de um conteúdo informativo sobre a arquitetura carioca, através de vídeos, fotos, artigos e notícias. Ademais, também conterá uma seção de depoimentos, formulário de contato e primordialmente o link para o download do app.
+
+## Why (Por que?):
+O objetivo principal do WebSite é aumentar a visibilidade e o número de downloads do aplicativo. Além disso também tem o propósito de fortalecer a marca Passeio Carioca e oferecer conteúdo de valor para os usuários.
