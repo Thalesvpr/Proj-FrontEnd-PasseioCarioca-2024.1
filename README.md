@@ -20,3 +20,5 @@ Quando o usuário estiver viajando pelo Rio de Janeiro e demonstrar interesse em
 ## How (Como?):
 Utilizando as melhores práticas de desenvolvimento web com react,
 para interfaces intuitivas, layout atraente utilizando conceitos de UX/UI, SEO para otimização de buscas.
+## How much (Quanto?):
+Custo variável de acordo com a complexidade do site, plataforma de hospedagem escolhida pela equipe de desenvolvimento. e aquisiçao do dominio se necessario.
