@@ -18,7 +18,7 @@ O site será hospedado em servidores de hospedagem na web confiáveis e altament
 Quando o usuário estiver viajando pelo Rio de Janeiro e demonstrar interesse em explorar os pontos turísticos da cidade, tambem quando o usuário buscar planejar suas visitas e passeios pelo Rio.
 
 ## How (Como?):
- A estratégia de divulgação do sistema se concentrará em destacar as funcionalidades e vantagens do aplicativo.
+ A estratégia de divulgação se concentrará em destacar as funcionalidades e vantagens do aplicativo, apoiada por estratégias de marketing e publicidade, e incorporando feedback dos usuários para melhorias contínuas.
 
 ## How Much (Quanto?):
 O desenvolvimento do sistema exigirá tempo e esforço dos desenvolvedores, com a possibilidade de fornecer valiosa experiência para a equipe.
