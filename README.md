@@ -38,9 +38,28 @@ O usuário tem que poder:
 
 ## Funcionalidades Gerais:
 
-Acessar o site em diferentes dispositivos (desktop, tablet, smartphone) com layout responsivo.
-Navegar pelo site de forma intuitiva e fluida, com menus e botões de fácil acesso.
-Encontrar informações sobre o aplicativo Passeio Carioca de forma rápida e eficiente.
-Ter acesso sobre as funcionalidades do aplicativo.
-Fazer download do aplicativo Passeio Carioca nas lojas de aplicativos.
-Entrar em contato com a equipe Passeio Carioca através de formulário de contato ou chat online.
+- Acessar o site em diferentes dispositivos (desktop, tablet, smartphone) com layout responsivo.
+- Navegar pelo site de forma intuitiva e fluida, com menus e botões de fácil acesso.
+- Encontrar informações sobre o aplicativo Passeio Carioca de forma rápida e eficiente.
+- Ter acesso sobre as funcionalidades do aplicativo.
+- Fazer download do aplicativo Passeio Carioca nas lojas de aplicativos.
+- Entrar em contato com a equipe Passeio Carioca através de formulário de contato ou chat online.
+
+## Funcionalidades Específicas:
+
+### Conhecer o aplicativo:
+- Visualizar fotos e vídeos do aplicativo em ação.
+- Ler sobre as principais funcionalidades do aplicativo e seus benefícios.
+- Explorar os diferentes tipos de passeios disponíveis no aplicativo.
+- Acessar FAQs (perguntas frequentes) sobre o aplicativo.
+### Gamificação:
+- Compreender o sistema de pontuação e recompensas do aplicativo.
+- Vizualizar eventos gamificados dentro do aplicativo.
+### Tradução automática:
+- Traduzir o conteúdo do site para os idiomas inglês e espanhol
+- Selecionar o idioma desejado de forma fácil e rápida.
+- Obter uma tradução precisa e natural do conteúdo do site.
+### Parcerias :
+- Acessar uma página dedicada às parcerias do "Passeio Carioca".
+- Conhecer as vantagens de se tornar um parceiro do aplicativo.
+- Entrar em contato com a equipe "Passeio Carioca" para saber mais sobre as parcerias.
