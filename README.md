@@ -34,7 +34,19 @@ Quando o usuário estiver viajando pelo Rio de Janeiro e demonstrar interesse em
 O desenvolvimento do sistema exigirá tempo e esforço dos desenvolvedores, com a possibilidade de fornecer valiosa experiência para a equipe.
 
 # Requisitos
-O usuário tem que poder:
+
+## Estilo Visual
+
+- O design é contemporâneo porém com referências a elementos da arquitetura antiga carioca, com uma estética limpa e elegante.
+- Utilização de cores que rementem a marca e a energia do Rio de Janeiro.
+- A tipografia será fácil de ler, garantindo uma boa experiência de leitura para os usuários.
+- Incorporação de imagens de resolução adequada que mostram a beleza da cidade e seus pontos turísticos.
+- Ilustrações vetoriais que compoem o layout da página.
+- Animações em paralax que compoem o fluxo do usuário na página.
+- Adoção de um layout flexível e responsivo, pensando no modile first, que se adapta de forma harmoniosa a diferentes dispositivos.
+___
+
+__*O usuário tem que poder:*__
 
 ## Funcionalidades Gerais:
 
@@ -76,3 +88,13 @@ O conteúdo do site deve ser legível e compreensível para pessoas com diferent
 - Traduzir o conteúdo do site para os idiomas inglês e espanhol
 - Selecionar o idioma desejado de forma fácil e rápida.
 - Obter uma tradução precisa e natural do conteúdo do site.
+
+## Segurança:
+
+- O site deve utilizar protocolos de segurança para proteger os dados  dos usuários.
+- As informações dos usuários devem ser coletadas e armazenadas de forma segura e confidencial.
+
+## Desempenho:
+
+- O site deve ter um bom desempenho e carregar rapidamente, mesmo em dispositivos com baixa conectividade.
+- O site deve ser otimizado para SEO (Search Engine Optimization) para ter um bom posicionamento nos resultados de busca.
