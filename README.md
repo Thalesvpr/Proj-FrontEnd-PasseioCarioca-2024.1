@@ -32,3 +32,15 @@ Quando o usuário estiver viajando pelo Rio de Janeiro e demonstrar interesse em
 
 ## How Much (Quanto?):
 O desenvolvimento do sistema exigirá tempo e esforço dos desenvolvedores, com a possibilidade de fornecer valiosa experiência para a equipe.
+
+# Requisitos
+O usuário tem que poder:
+
+## Funcionalidades Gerais:
+
+Acessar o site em diferentes dispositivos (desktop, tablet, smartphone) com layout responsivo.
+Navegar pelo site de forma intuitiva e fluida, com menus e botões de fácil acesso.
+Encontrar informações sobre o aplicativo Passeio Carioca de forma rápida e eficiente.
+Ter acesso sobre as funcionalidades do aplicativo.
+Fazer download do aplicativo Passeio Carioca nas lojas de aplicativos.
+Entrar em contato com a equipe Passeio Carioca através de formulário de contato ou chat online.
