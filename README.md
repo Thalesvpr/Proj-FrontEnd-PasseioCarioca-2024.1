@@ -66,3 +66,13 @@ O usuário tem que poder:
 - imagens dos principais pontos turísticos da cidade.
 - Mapa interativo com os pontos turísticos do Rio de Janeiro e suas informações.
 - Integração com redes sociais (Instagram).
+
+## Acessibilidade:
+
+### Niveis de conhecimento:
+O conteúdo do site deve ser legível e compreensível para pessoas com diferentes níveis de conhecimento técnico.
+
+### Tradução automática:
+- Traduzir o conteúdo do site para os idiomas inglês e espanhol
+- Selecionar o idioma desejado de forma fácil e rápida.
+- Obter uma tradução precisa e natural do conteúdo do site.
