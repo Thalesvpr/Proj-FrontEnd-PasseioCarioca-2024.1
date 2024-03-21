@@ -55,11 +55,14 @@ O usuário tem que poder:
 ### Gamificação:
 - Compreender o sistema de pontuação e recompensas do aplicativo.
 - Vizualizar eventos gamificados dentro do aplicativo.
-### Tradução automática:
-- Traduzir o conteúdo do site para os idiomas inglês e espanhol
-- Selecionar o idioma desejado de forma fácil e rápida.
-- Obter uma tradução precisa e natural do conteúdo do site.
 ### Parcerias :
 - Acessar uma página dedicada às parcerias do "Passeio Carioca".
 - Conhecer as vantagens de se tornar um parceiro do aplicativo.
 - Entrar em contato com a equipe "Passeio Carioca" para saber mais sobre as parcerias.
+
+### Funcionalidades Adicionais:
+
+- Blog com informações e dicas sobre turismo no Rio de Janeiro.
+- imagens dos principais pontos turísticos da cidade.
+- Mapa interativo com os pontos turísticos do Rio de Janeiro e suas informações.
+- Integração com redes sociais (Instagram).
