@@ -1,5 +1,15 @@
 # Proj-FrontEnd-PasseioCarioca-2024.1
 
+# Propósito do Projeto
+
+Será feito desenvolvimento de um site dedicado à divulgação do aplicativo "Passeio Carioca" que visa promover uma experiência única e envolvente para os usuários interessados em explorar o melhor do Rio de Janeiro. Com o objetivo de destacar as características distintivas deste aplicativo, o site funcionará como uma plataforma informativa e atrativa, proporcionando uma visão abrangente das funcionalidades e vantagens que o "Passeio Carioca" oferece.
+O propósito primordial deste site é fornecer aos visitantes uma compreensão clara e concisa do que podem esperar do aplicativo. Ao apresentar de forma cativante as principais características, como rotas turísticas personalizadas, recomendações de pontos de interesse, insights culturais e dicas de viagem, o site busca despertar o interesse e a curiosidade dos potenciais usuários.
+A estética e usabilidade do site serão cuidadosamente planejadas para refletir a essência vibrante e acolhedora do Rio de Janeiro, criando uma atmosfera imersiva. 
+Além disso terá a  presença de gamificação no site de divulgação do aplicativo "Passeio Carioca", que  é uma estratégia poderosa para envolver os usuários de forma interativa e divertida. A gamificação é a aplicação de elementos e mecânicas típicas de jogos em contextos não relacionados a jogos, com o objetivo de incentivar a participação, aumentar o engajamento e promover comportamentos desejados.
+As parcerias B2B tambem presentes, serão uma estratégia poderosa para expandir o alcance e o impacto do aplicativo  e criar sinergias com outras empresas e organizações relacionadas ao setor turístico no Rio de Janeiro. Em resumo, uma parceria B2B pode ser uma estratégia eficaz para expandir o alcance e os benefícios do "Passeio Carioca", ao mesmo tempo em que cria valor para os parceiros envolvidos e contribui para o crescimento e sucesso de todas as partes.
+Por fim, o site oferecerá links diretos para download do aplicativo. Esta integração  entre o site e o aplicativo garantirá uma experiência de usuário coesa e fluida, facilitando o acesso dos interessados a esta ferramenta de exploração urbana.
+
+
 # 5w2h
 
 ## What (O que ?):
