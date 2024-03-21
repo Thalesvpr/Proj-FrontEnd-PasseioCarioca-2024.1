@@ -88,3 +88,13 @@ O conteúdo do site deve ser legível e compreensível para pessoas com diferent
 - Traduzir o conteúdo do site para os idiomas inglês e espanhol
 - Selecionar o idioma desejado de forma fácil e rápida.
 - Obter uma tradução precisa e natural do conteúdo do site.
+
+## Segurança:
+
+- O site deve utilizar protocolos de segurança para proteger os dados  dos usuários.
+- As informações dos usuários devem ser coletadas e armazenadas de forma segura e confidencial.
+
+## Desempenho:
+
+- O site deve ter um bom desempenho e carregar rapidamente, mesmo em dispositivos com baixa conectividade.
+- O site deve ser otimizado para SEO (Search Engine Optimization) para ter um bom posicionamento nos resultados de busca.
