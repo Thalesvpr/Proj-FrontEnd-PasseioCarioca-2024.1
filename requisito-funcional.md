@@ -1,15 +1,15 @@
 # Estrutura da Página
 
 #### Codigo de Nomeclatura
-> **Tags:**
+> #### Tags:
 >
 >       S = Section
->___
+>
 > **Construçao do titulo:**
 >
 >          TAG_NOME_FUNCIONALIDADE
->__
->**Construção do subtitulo:** 
+>
+>#### Construção do subtitulo:
 >
 >           CONSOANTES_INDEX
 > ___
