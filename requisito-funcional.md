@@ -17,7 +17,7 @@
 
 **Introdução:**
 
-Apresentação do logotipo, nome do aplicativo e links principais da página.
+Apresentação do logotipo, nome do aplicativo e links para as principais cessões da página.
 
 ### HDR_01
 
