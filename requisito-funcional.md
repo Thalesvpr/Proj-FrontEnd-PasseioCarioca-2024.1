@@ -17,11 +17,11 @@
 
 **Requisito:**
 
-    O Header têm que apresentar a empresa, permitir que o usuário baixe o app e conter um menu de navegação.
+    O Header têm que apresentar a empresa, permitir que o usuário baixe o app, conter um menu de navegação e um acesso rápido a tradução do site.
 
 ### HDR_01
-- Logo do aplicativo (canto superior esquerdo)
-- Nome do aplicativo (canto superior esquerdo)
+- Logo do aplicativo 
+- Nome do aplicativo 
 
 ### HDR_02
 **Rotas:**
@@ -34,6 +34,12 @@
 
 ### HDR_03
 - Link para Download do app
+
+### HDR_04
+- Botão de tradução automática
+**Idiomas:**
+- Inglês
+- Espanhol
 
 
 ## S_HERO 
