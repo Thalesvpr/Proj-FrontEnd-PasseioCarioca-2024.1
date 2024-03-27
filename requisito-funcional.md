@@ -3,7 +3,7 @@
 #### Codigo de Nomeclatura
 > **Tags:**
 >
->       S = Section
+>          S = Section
 >___
 > **Construçao do titulo:**
 >
