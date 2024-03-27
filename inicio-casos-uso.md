@@ -88,5 +88,61 @@
 
 #### Pós-condições:
 
-- P.6: O passeio é reservado para o visitante e um recibo de confirmação é fornecido.
+- O passeio é reservado para o visitante e um recibo de confirmação é fornecido.
+
+# 1.5 Caso de Uso: Ampliar Alcance para Guias de Turismo
+
+## Ator Principal: Guia de Turismo
+
+#### Pré-condições:
+
+- O guia de turismo acessou a seção de Benefícios para Guias de Turismo.
+
+#### Fluxo Principal:
+
+- P.1: O sistema exibe um título "Amplie Seu Alcance" na seção de benefícios para guias de turismo.
+
+- P.2: O sistema apresenta o conteúdo: "Conecte-se com turistas e moradores em busca de experiências únicas. Cadastre-se hoje e comece a oferecer seus passeios guiados através do Passeio Carioca."
+
+- P.3: O sistema mostra um botão "Cadastre-se Como Guia".
+
+- P.4: O guia de turismo clica no botão "Cadastre-se Como Guia".
+
+- P.5: O sistema direciona o guia para um formulário de inscrição.
+
+- P.6: O guia preenche o formulário de inscrição e envia suas informações.
+
+- P.7: O sistema registra o guia como um novo membro e fornece informações adicionais sobre como começar a oferecer passeios através do aplicativo.
+
+#### Pós-condições:
+
+- O guia de turismo está cadastrado no aplicativo e pode começar a oferecer seus passeios.
+
+
+# 1.6 Caso de Uso: Entrar em Contato
+
+## Ator Principal: Visitante
+
+#### Pré-condições:
+
+- O visitante acessou a seção de Contato.
+
+#### Fluxo Principal:
+
+- P.1: O sistema exibe um título "Fale Conosco" na seção de Contato.
+
+- P.2: O sistema apresenta o texto: "Tem perguntas ou sugestões? Nossa equipe de suporte está pronta para ajudar."
+
+- P.3: O sistema mostra um formulário de contato com campos para Nome, E-mail, Mensagem e um Botão "Enviar".
+
+- P.4: O visitante preenche os campos necessários no formulário de contato.
+
+- P.5: O visitante clica no botão "Enviar".
+
+- P.6: O sistema registra a mensagem enviada pelo visitante e a encaminha para a equipe responsável
+- P.7: O sistema exibe uma mensagem de confirmação ao visitante, informando que a mensagem foi enviada com sucesso.
+
+#### Pós-condições:
+
+- A mensagem do visitante é enviada para a equipe responsável para tratamento.
 
