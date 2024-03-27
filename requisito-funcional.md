@@ -37,7 +37,8 @@
 
 ### HDR_04
 - Botão de tradução automática
-**Idiomas:**
+
+***Idiomas:***
 - Inglês
 - Espanhol
 

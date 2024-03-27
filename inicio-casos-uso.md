@@ -1,6 +1,8 @@
-# 1.1 Caso de Uso: Baixar Aplicativo
+# 1.1 Caso de Uso: S_HEADER
 
 ## Ator Principal: Visitante
+
+### HDR_02
 
 #### Pré-condições:
 
