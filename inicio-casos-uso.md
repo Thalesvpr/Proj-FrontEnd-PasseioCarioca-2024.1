@@ -101,4 +101,72 @@
 #### Pós-Condições:
 - Anunciantes podem seguir em frente com o processo de publicidade no aplicativo, entrando em contato com a equipe responsável ou preenchendo um formulário de interesse.
 
+# 1.6 Caso de Uso: S_CONTACT
+
+## Ator Principal: Visitante
+#### CNTCT_01
+#### Pré-condições:
+- O visitante acessou a seção de Contato.
+#### Fluxo Principal:
+- O visitante é apresentado com a opção de enviar perguntas ou mensagens à equipe de suporte.
+- O visitante preenche os campos necessários, como nome, e-mail e mensagem.
+- O visitante clica no botão "Enviar" para submeter sua pergunta ou mensagem.
+#### Pós-condições:
+- O sistema recebe a mensagem do visitante.
+- A equipe de suporte é notificada sobre a nova mensagem.
+- O visitante pode receber uma confirmação visual de que sua mensagem foi enviada com sucesso.
+
+# 1.7 Caso de Uso: S_FOOTER
+
+## Ator Principal: Visitante
+### FTR_01
+#### Pré-condições:
+- O visitante acessou a seção do rodapé onde estão localizados os links rápidos.
+#### Fluxo Principal:
+- O visitante visualiza a lista de links rápidos disponíveis no rodapé da página.
+- O visitante identifica os links que correspondem às principais seções da página, como "Início", "Sobre o App", "Para Turistas e Moradores", "Para Guias de Turismo", "Para Anunciantes", "Download" e "Contato".
+- O visitante clica em um dos links rápidos para acessar a seção correspondente.
+#### Pós-condições:
+- O visitante é direcionado para a seção da página correspondente ao link clicado.
+- O visitante pode continuar navegando pela página ou realizar outras interações conforme necessário.
+
+
+
+### FTR_02
+#### Pré-condições:
+- O visitante acessou a seção do rodapé onde estão localizados os ícones das redes sociais.
+#### Fluxo Principal:
+- O visitante identifica o ícone que corresponde ao Instagram.
+- O visitante clica no ícone das rede social para acessar a página correspondente.
+#### Pós-condições:
+- O visitante é direcionado para a página oficial do aplicativo na rede social correspondente ao ícone clicado.
+- A página pode abrir em uma nova aba ou janela, dependendo da configuração do navegador.
+- O visitante pode continuar navegando pela página do site ou interagir com o conteúdo na rede social.
+
+### FTR_03
+#### Pré-condições:
+- O visitante acessou a seção do rodapé onde estão localizados os links para os Termos de Uso e Política de Privacidade.
+#### Fluxo Principal:
+- O visitante identifica os links correspondentes aos Termos de Uso e Política de Privacidade.
+- O visitante clica em um dos links para acessar a página ou documento correspondente.
+#### Pós-condições:
+- O visitante é direcionado para a página ou documento dos Termos de Uso ou Política de Privacidade.
+- O visitante pode revisar os Termos de Uso e Política de Privacidade para entender as diretrizes e regras relacionadas ao uso do aplicativo, garantindo transparência e confiança.
+
+# 1.8 Caso de Uso: S_DOWNLOAD_APP
+
+## Ator Principal: Visitante
+
+### DWNLD_APP_01
+
+#### Pré-condições:
+- O visitante acessou a seção onde está localizado o título "Comece Sua Aventura no Rio Agora Mesmo".
+#### Fluxo Principal:
+- O visitante visualiza o título "Comece Sua Aventura no Rio Agora Mesmo" acompanhado pelo texto "Baixe o Passeio Carioca disponível para iOS e Android".
+- O visitante identifica os botões de download disponíveis para a Google Play Store e Apple App Store.
+- O visitante clica em um dos botões de download para baixar o aplicativo.
+#### Pós-condições:
+- O visitante é direcionado para a loja de aplicativos correspondente (Google Play Store ou Apple App Store).
+- O visitante pode fazer o download do aplicativo diretamente da loja de aplicativos selecionada.
+
 
