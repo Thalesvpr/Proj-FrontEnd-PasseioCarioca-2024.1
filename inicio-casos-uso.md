@@ -74,6 +74,7 @@
 - O visitante pode explorar os recursos de gameficação oferecidos pelo aplicativo.
 - O visitante pode decidir se deseja continuar interagindo com o aplicativo ou explorar outras áreas do site.
 
+<<<<<<< HEAD
 # 1.5 Caso de Uso: S_BENEFITS
 ## Ator Principal: Guia de Turismo
 #### BNFTS_01
@@ -169,4 +170,29 @@
 - O visitante é direcionado para a loja de aplicativos correspondente (Google Play Store ou Apple App Store).
 - O visitante pode fazer o download do aplicativo diretamente da loja de aplicativos selecionada.
 
+=======
+- O visitante pode visualizar todas as informações necessárias sobre o local desejado.
+
+# 1.4 Caso de Uso: Reservar Passeio
+
+## Ator Principal: Visitante
+
+#### Pré-condições:
+
+- P.1: O visitante acessou a página de Passeios e visualizou as informações de um passeio específico.
+
+#### Fluxo Principal:
+
+- P.2: O visitante seleciona a opção de reservar o passeio desejado.
+ 
+- P.3: O sistema solicita que o visitante preencha um formulário com suas informações pessoais e detalhes da reserva.
+
+- P.4: O visitante preenche o formulário e confirma a reserva.
+
+- P.5: O sistema confirma a reserva e fornece ao visitante um recibo de confirmação.
+
+#### Pós-condições:
+
+- P.6: O passeio é reservado para o visitante e um recibo de confirmação é fornecido.
+>>>>>>> parent of 832d616 (att 1.1  casos de usos)
 
