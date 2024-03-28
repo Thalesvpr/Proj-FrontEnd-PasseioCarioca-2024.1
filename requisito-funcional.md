@@ -15,17 +15,16 @@
 > ___
 ## S_HEADER 
 
-**Introdução:**
+**Requisito:**
 
-Apresentação do logotipo, nome do aplicativo e links para as principais cessões da página.
+    O Header têm que apresentar a empresa, permitir que o usuário baixe o app, conter um menu de navegação e um acesso rápido a tradução do site.
 
 ### HDR_01
-
-- Logo do aplicativo (canto superior esquerdo)
-- Nome do aplicativo (canto superior esquerdo)
+- Logo do aplicativo 
+- Nome do aplicativo 
 
 ### HDR_02
-**rotas:**
+**Rotas:**
 - Sobre o App
 - Para Turistas e Moradores:
 - Para Guias de Turismo
@@ -33,25 +32,35 @@ Apresentação do logotipo, nome do aplicativo e links para as principais cessõ
 - Download
 - Contato:
 
+### HDR_03
+- Link para Download do app
+
+### HDR_04
+- Botão de tradução automática
+
+***Idiomas:***
+- Inglês
+- Espanhol
+
 
 ## S_HERO 
 
-**Introdução:**
+**Requisito:**
 
-Representaçao ilustrativa do Rio de Janeiro com textos dinâmicos e botão de download.
+    O Hero deve estampar o estado do Rio de Janeiro, expor resumidamente o aplicativo e direcionar para o download do app.
 
 ### HR_01
 
-- Representaçao ilustrativa do Rio de Janeiro com textos dinâmicos sobrepostos
+- Representaçao ilustrativa do Rio de Janeiro com textos e imagens dinâmicos sobre o app.
 - **Botão de Download:** "Baixe o App Agora" (direciona para as lojas de aplicativos)
 
 ## S_ABOUT_APP
 
 
 
-**Introdução:**
+**Requisito:**
 
-Texto introdutório sobre o aplicativo e suas funcionalidades, com um CTA para o download.
+    A sessão deve esclarecer as funcionalidades do aplicativo de forma detalhada e atrair o usuário para o CTA.
 
 ### ABT_APP_01
 
@@ -69,9 +78,9 @@ Texto introdutório sobre o aplicativo e suas funcionalidades, com um CTA para o
 
 ## S_TO_EXPLORE (Para Turistas e Moradores)
 
-**Introdução:**
+**Requisito:**
 
-Título, conteúdo e recursos para turistas e moradores.
+    Este pedaço do site deve explicar de maneira clara sobre a gameficação presente no app.
 
 **Título:** *"Explore, Jogue e Conecte-se"*
 
@@ -87,9 +96,9 @@ Título, conteúdo e recursos para turistas e moradores.
 
 ## S_BENEFITS
 
-**Introdução:**
+**Requisito:**
 
-Título, conteúdo e botão para guias de turismo.
+    Esta área deve exibir para as empresas a possibilidade de parcerias, além de mostrar os benefícios da cooperação interempresarial.
 
 ### BNFTS_01 (Para Guias de Turismo)
 - **Título:** *"Amplie Seu Alcance"*
@@ -109,9 +118,9 @@ Título, conteúdo e botão para guias de turismo.
 
 ## S_DOWNLOAD_APP
 
-**Introdução:**
+**Requisito:**
 
-Título, texto e botões para download do aplicativo.
+    Esta parte deve conter gatilhos para o usuário baixar o aplicativo independentemente da plataforma.
 
 ### DWNLD_APP_01
 
@@ -123,9 +132,9 @@ Título, texto e botões para download do aplicativo.
 
 ## S_CONTACT
 
-**Introdução:**
+**Requisito:**
 
-Título, texto e formulário de contato.
+    Esta seção deve oferecer aos usuários uma maneira fácil de entrar em contato com a equipe responsável pelo aplicativo.
 
 ### CNTCT_01
 **Título:** *"Fale Conosco"*
@@ -136,10 +145,9 @@ Título, texto e formulário de contato.
 
 ## S_FOOTER
 
-**Introdução:**
+**Requisito:**
 
-Links rápidos, redes sociais e termos de uso.
-
+    Esta seção deve conter informações adicionais e links úteis para os usuários.
 
 ### FTR_01
 - **Links Rápidos:** Para as principais seções da página.
@@ -148,9 +156,3 @@ Links rápidos, redes sociais e termos de uso.
 ### FTR_03
 - **Termos de Uso e Política de Privacidade:** Links importantes para transparência e confiança.
 
-## Observações:
-
-**Recursos Adicionais:**
-
--  Guia Markdown: [https://markdown.es/](https://markdown.es/)
--  Ferramentas Markdown: [https://www.markdownguide.org/tools/](https://www.markdownguide.org/tools/)
