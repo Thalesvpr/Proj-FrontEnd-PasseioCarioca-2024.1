@@ -59,3 +59,46 @@
 #### Pós-condições:
 - O visitante é informado sobre as características e propósitos do aplicativo.
 - O visitante é atraído para a ação desejada, que pode incluir o download do aplicativo, cadastro ou exploração de outras seções do site relacionadas ao aplicativo.
+
+# 1.4 Caso de Uso: S_TO_EXPLORE
+## Ator Principal: Visitante
+### T_EXPLR_01
+#### Pré-condições:
+- O visitante acessa a página inicial do site.
+- O visitante visualiza a seção "Para Explorar" ou similar.
+- O visitante identifica o botão "Veja como Funciona" relacionado à gameficação do aplicativo.
+#### Fluxo Principal:
+- O visitante clica no botão "Veja como Funciona".
+- O sistema redireciona o visitante para a sessão "Veja como Funciona", que demonstra o funcionamento dos recursos de gameficação do aplicativo.
+#### Pós-condições:
+- O visitante pode explorar os recursos de gameficação oferecidos pelo aplicativo.
+- O visitante pode decidir se deseja continuar interagindo com o aplicativo ou explorar outras áreas do site.
+
+# 1.5 Caso de Uso: S_BENEFITS
+## Ator Principal: Guia de Turismo
+#### BNFTS_01
+#### Pré-condições:
+- O Guia de Turismo acessa a página inicial do site.
+- O Guia de Turismo navega até a seção "Benefícios" ou "Para Guias de Turismo".
+- O Guia de Turismo visualiza as informações sobre "Amplie seu Alcance".
+##### Fluxo Principal:
+- O Guia de Turismo clica no botão "Cadastre-se Como Guia".
+- O Guia de Turismo preenche o formulário de inscrição com suas informações pessoais e detalhes de contato.
+- O Guia de Turismo confirma o cadastro clicando no botão "Enviar".
+##### Pós-condições:
+- O Guia de Turismo é registrado como um guia no sistema do aplicativo.
+- O Guia de Turismo recebe uma confirmação de registro por e-mail.
+- O Guia de Turismo pode acessar recursos adicionais e funcionalidades específicas para guias dentro da plataforma do aplicativo, como criar e gerenciar passeios, interagir com os clientes e acessar métricas de desempenho.
+## Ator Principal: Anunciantes
+#### BNFTS_02
+#### Pré-condições:
+- Anunciantes acessam a página inicial do site.
+- Anunciantes identificam a seção destinada a destacar suas marcas e produtos.
+#### Fluxo Principal:
+- Anunciantes clicam no botão "Saiba Mais" ou similar.
+- O sistema redireciona os anunciantes para uma página ou formulário que fornece informações detalhadas sobre os benefícios de anunciar no aplicativo.
+- Anunciantes podem explorar os recursos disponíveis para promover suas marcas, como oferecer promoções, ganhar visibilidade com pins diferenciados no mapa e acessar dados valiosos sobre potenciais clientes.
+#### Pós-Condições:
+- Anunciantes podem seguir em frente com o processo de publicidade no aplicativo, entrando em contato com a equipe responsável ou preenchendo um formulário de interesse.
+
+
