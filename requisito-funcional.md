@@ -1,158 +1,44 @@
-# Estrutura da Página
-
-#### Codigo de Nomeclatura
-> #### Tags:
->
->       S = Section
->
-> **Construçao do titulo:**
->
->          TAG_NOME_FUNCIONALIDADE
->
->#### Construção do subtitulo:
->
->           CONSOANTES_INDEX
-> ___
-## S_HEADER 
-
-**Requisito:**
-
-    O Header têm que apresentar a empresa, permitir que o usuário baixe o app, conter um menu de navegação e um acesso rápido a tradução do site.
-
-### HDR_01
-- Logo do aplicativo 
-- Nome do aplicativo 
-
-### HDR_02
-**Rotas:**
-- Sobre o App
-- Para Turistas e Moradores:
-- Para Guias de Turismo
-- Para Anunciantes
-- Download
-- Contato:
-
-### HDR_03
-- Link para Download do app
-
-### HDR_04
-- Botão de tradução automática
-
-***Idiomas:***
-- Inglês
-- Espanhol
-
-
-## S_HERO 
-
-**Requisito:**
-
-    O Hero deve estampar o estado do Rio de Janeiro, expor resumidamente o aplicativo e direcionar para o download do app.
-
-### HR_01
-
-- Representaçao ilustrativa do Rio de Janeiro com textos e imagens dinâmicos sobre o app.
-- **Botão de Download:** "Baixe o App Agora" (direciona para as lojas de aplicativos)
-
-## S_ABOUT_APP
-
-
-
-**Requisito:**
-
-    A sessão deve esclarecer as funcionalidades do aplicativo de forma detalhada e atrair o usuário para o CTA.
-
-### ABT_APP_01
-
-
- - **Texto de Introdução:**
-*"O Passeio Carioca é o seu passaporte para explorar o Rio de Janeiro, combinando história, cultura e diversão em uma única experiência. Navegue por histórias fascinantes, participe de jogos interativos e conecte-se com guias locais."*
-
-
-
- ## ABT_APP_02
-
-- **Botão de Download:** "Baixe o App Agora" (direciona para as lojas de aplicativos)
-
-
-
-## S_TO_EXPLORE (Para Turistas e Moradores)
-
-**Requisito:**
-
-    Este pedaço do site deve explicar de maneira clara sobre a gameficação presente no app.
-
-**Título:** *"Explore, Jogue e Conecte-se"*
-
-**Conteúdo:** *"Descubra os segredos dos pontos turísticos, participe de desafios de gameficação e encontre os melhores passeios guiados. Tudo em um só lugar."*
-
-### T_EXPLR_01
-- **Demonstração Interativa:** Botão "Veja Como Funciona" (abre um vídeo ou demo interativa)
-
-### T_EXPLR_02
-
-- **Botão de Download:** Com um chamado à ação claro.
-
-
-## S_BENEFITS
-
-**Requisito:**
-
-    Esta área deve exibir para as empresas a possibilidade de parcerias, além de mostrar os benefícios da cooperação interempresarial.
-
-### BNFTS_01 (Para Guias de Turismo)
-- **Título:** *"Amplie Seu Alcance"*
-
-- **Conteúdo:** "Conecte-se com turistas e moradores em busca de experiências únicas. Cadastre-se hoje e comece a oferecer seus passeios guiados através do Passeio Carioca."
-
-- **Botão:** "Cadastre-se Como Guia" (direciona para um formulário de inscrição)
-
-### BNFTS_02 (Para Anunciantes)
-
-
-- **Título:** *"Conecte Sua Marca com Aventureiros"*
-
-- **Conteúdo:** *"Destaque sua empresa para um público engajado. Ofereça promoções, ganhe visibilidade com pins diferenciados no mapa e acesse dados valiosos sobre seus potenciais clientes."*
-
-- **Botão:** "Saiba Mais" (direciona para um formulário de contato ou página com mais informações sobre publicidade)
-
-## S_DOWNLOAD_APP
-
-**Requisito:**
-
-    Esta parte deve conter gatilhos para o usuário baixar o aplicativo independentemente da plataforma.
-
-### DWNLD_APP_01
-
-**Título:** *"Comece Sua Aventura no Rio Agora Mesmo"*
-
-- Texto: "Baixe o Passeio Carioca disponível para iOS e Android."
-
-- Botões de Download: Links diretos para a Google Play Store e Apple App Store
-
-## S_CONTACT
-
-**Requisito:**
-
-    Esta seção deve oferecer aos usuários uma maneira fácil de entrar em contato com a equipe responsável pelo aplicativo.
-
-### CNTCT_01
-**Título:** *"Fale Conosco"*
-
-- **Texto:** *"Tem perguntas ou sugestões? Nossa equipe está pronta para ajudar."*
-
-- **Formulário de Contato:** Campos para Nome, E-mail, Mensagem e Botão "Enviar"
-
-## S_FOOTER
-
-**Requisito:**
-
-    Esta seção deve conter informações adicionais e links úteis para os usuários.
-
-### FTR_01
-- **Links Rápidos:** Para as principais seções da página.
-### FTR_02
-- **Redes Sociais:** Ícones com links para as páginas do aplicativo nas redes sociais.
-### FTR_03
-- **Termos de Uso e Política de Privacidade:** Links importantes para transparência e confiança.
-
+# Lista de Requisitos:
+### Narrativa livre:
+___
+- O sistema deve ter um rodapé com links e contato em todas as páginas.
+- O sistema deve apresentar um menu interativo em todas as páginas.
+- O sistema deve contar com botões de download claro e distintos na página inicial.
+- O sistema deve apresentar um botão de mudança de idioma(inglês ou espanhol).
+- O sistema deve conter um design compatível com todos os dispositivos(mobile, desktop e tablet).
+- O sistema deve incluir botões para redirecionar o usuário até lojas de apps(App store e Play store) para o download do aplicativo.
+- O sistema deve apresentar uma página contendo contato e informações sobre a empresa.
+- O sistema deve ter incluso apenas a palheta de cores da empresa para a parte estética do site.
+- O sistema deve apresentar botões que redirecionem o usuário para as redes sociais da empresa.
+- O sistema deve possuir uma página explicando os recursos de gamificação do aplicativo.
+- O sistema deve conter todas as suas páginas otimizadas para SEO.
+- O sistema deve apresentar um tempo de carregamento rápido para as suas páginas.
+- O sistema deve estar hospedado em um servidor seguro e confiável.
+- O sistema deve ser desenvolvido usando javascript como linguagem principal.
+- O sistema deve incluir medidas de segurança, como validação de entrada e proteção contra spam.
+- O sistema deve permitir o cadastro do usuário como guia turístico. 
+- O sistema deve permitir o cadastro do usuário como anunciante.
+- O sistema tem que apresentar os passeios disponíveis para o usuário.
+- O sistema deve apresentar para os anunciantes os planos existentes no aplicativos(bronze, prata, ouro e diamante)
+___
+
+
+
+
+
+
+
+### Requisitos funcionais
+___
+1. O website deve apresentar um menu interativo, visível em todas as páginas(Home, Sobre o app, Explorar, Benefícios, Contato), para facilitar a navegação dos usuários.
+2. Um rodapé contendo links para redes sociais da empresa e informações de contato deve estar presente em todas as páginas do site.
+3. O sistema deve conter chamadas de atenção para permitir que o usuário faça o download do aplicativo.
+4. O sistema deve permitir que o usuário entenda sobre as funcionalidades do aplicativo incluindo a gameficação.
+5. O sistema deve permitir que o usuário altere o idioma, e será alterado em todo o sistema. 
+6. O sistema deve mostrar para o usuário passeios disponíveis.
+7. O sistema deve oferecer a funcionalidade de cadastro do usuário como guia turístico.
+8. O sistema deve oferecer a funcionalidade de cadastro do usuário como anunciante.
+9. O sistema deve explicar os planos bronze, prata, ouro e diamante para o anunciante.
+
+
+___
