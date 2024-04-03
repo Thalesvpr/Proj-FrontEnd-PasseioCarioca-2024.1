@@ -87,7 +87,10 @@ ____
 
 #### Fluxo Principal:
 
-- O visitante interage com o mapa, explorando diferentes áreas e pontos de interesse.
+- O visitante é apresentado com as informações iniciais do app.
+
+
+- O visitante interage com o mapa, explorando diferentes áreas e pontos de interesse destacado.
 
 - O visitante visualiza o mapa interativo destacando os pontos turísticos e locais históricos no Rio de Janeiro.
 
@@ -128,7 +131,7 @@ ____
 
 - P.1: O visitante visualiza a sessão e em seguida o texto de apresentação do aplicativo "Sobre o Aplicativo".
 
-- P.2: O visitante lê o texto de introdução e explora as informações fornecidas na sessão.
+- P.2: O visitante lê o texto de introdução e explora as informações sobre o aplicativo fornecidas na sessão.
 
 
 #### Pós-condições:
@@ -137,11 +140,49 @@ ____
 
 - O visitante pode explorar os recursos de gameficação oferecidos pelo aplicativo.
 
-- O visitante é atraído para a ação desejada, que pode incluir o download do aplicativo, cadastro ou exploração até mesmo adiquirir mais informações sobre a "Gamefição" e de outras seções do site relacionadas ao aplicativo.
+- O visitante é atraído para a ação desejada, que pode incluir o download do aplicativo, cadastro, exploração do mapa interativo ou até mesmo adiquirir mais informações sobre a "Gamefição" e de outras sessões do site relacionadas ao aplicativo.
 
 ____
 
-# 1.4 Caso de Uso: Recursos de Gamificação
+
+# 1.4 Caso de Uso: Mapa Interativo
+
+## Ator Principal: Visitante
+
+#### Descrição: 
+
+-  Este caso de uso descreve o processo pelo qual o visitante pode aprender sobre o aplicativo diretamente da página inicial do site na sessão "Explorar", junto com mapa interativo para indagar o visitante a baixar o app.
+
+#### Pré-condições:
+
+- O visitante acessou a página inicial do site.
+
+- A sessão "Explorar" está disponível na página inicial.
+
+#### Fluxo Principal:
+
+- O visitante é apresentado com as informações iniciais do app.
+
+
+- O visitante interage com o mapa, explorando diferentes áreas e pontos de interesse destacado.
+
+- O visitante visualiza o mapa interativo destacando os pontos turísticos e locais históricos no Rio de Janeiro.
+
+- Durante a interação com o mapa, o visitante é apresentado a informações breves sobre os locais destacados.
+
+- O visitante identifica chamadas para ação ou banners convidando-o a baixar o aplicativo móvel para uma experiência mais completa.
+
+
+#### Pós-condições:
+
+- O visitante tem uma experiência interativa e informativa sobre os principais passeios ao explorar o mapa.
+
+- O visitante é incentivado a baixar o aplicativo móvel para uma experiência mais completa e ao mesmo tempo personalizada ao explorar os pontos turísticos e locais históricos no Rio de Janeiro.
+
+
+___
+
+# 1.5 Caso de Uso: Recursos de Gamificação
 
 ## Ator Principal: Visitante
 
@@ -173,7 +214,7 @@ ____
 - O visitante é atraído para a ação desejada, que pode incluir o download do aplicativo, cadastro ou exploração até mesmo adiquirir mais informações sobre a "Gamefição" e de outras seções do site relacionadas ao aplicativo.
 ___
 
-# 1.5 Caso de Uso: Cadastro de Guia de Turismo
+# 1.6 Caso de Uso: Cadastro de Guia de Turismo
 
 ## Ator Principal: Guia de Turismo
 
@@ -213,13 +254,8 @@ ___
 
 ___
 
-%%%%%%%%%%%%%%%%%%%%%%%%%
 
-++++ novo caso de uso= planos para parceiros(bronze, prata, ouro , diamante)
-
-%%%%%%%%%%%%%%%%%%%%%%%%%
-
-# 1.6 Caso de Uso: Benefícios para os Anunciantes
+# 1.7 Caso de Uso: Benefícios para os Anunciantes
 
 ## Ator Principal: Anunciantes
 
@@ -239,17 +275,17 @@ ___
 
 - P.2: Os anunciantes clicam no botão "Saiba Mais" ou similar.
 
-- P.3: O sistema redireciona os anunciantes para uma página ou formulário que fornece informações detalhadas sobre os benefícios de anunciar no aplicativo.
+- P.3: O sistema redireciona os anunciantes para uma página ou formulário que fornece informações detalhadas sobre os benefícios e planos de parceria("Bronze", "Prata", "Ouro" e "Diamante") para anunciar no aplicativo.
 
 - P.4: Os anunciantes podem explorar os recursos disponíveis para promover suas marcas, como oferecer promoções, ganhar visibilidade com pins diferenciados no mapa e acessar dados valiosos sobre potenciais clientes.
 
 #### Pós-condições:
 
-- Anunciantes podem seguir em frente com o processo de publicidade no aplicativo, entrando em contato com a equipe responsável ou preenchendo um formulário de interesse. 
+- Anunciantes podem seguir em frente com o processo de publicidade no aplicativo, entrando em contato com a equipe responsável ou preenchendo um formulário de interesse e ja escolhendo seu plano inicial de parceria. 
 
 ____
 
-# 1.7 Caso de Uso: Entre em Contato 
+# 1.8 Caso de Uso: Entre em Contato 
 
 ## Ator Principal: Visitante 
 
