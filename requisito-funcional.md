@@ -30,7 +30,7 @@ ___
 
 ### Lista de Requisitos
 ___
-# T1 - Cabeçalho e Menu
+
 
 ## T1.1: Menu Interativo
 
@@ -64,7 +64,7 @@ No menu, deve ter um botão para redirecionar à sessão "Fale Conosco".
 
 No menu, deve ter um botão para redirecionar à sessão "Sobre Nós".
 
-# T2 - Tradução
+
 
 ## T2.1: Botão de Tradução Automática
 
@@ -74,7 +74,7 @@ Deve haver um botão de tradução automática para os idiomas inglês e espanho
 
 As traduções devem ser feitas através do Google Translate.
 
-# T3 - Rodapé
+
 
 ## T3.1: Rodapé Fixo
 
@@ -92,7 +92,7 @@ Deve ter um link para o download do app no rodapé, redirecionando para a Play S
 
 Deve haver um ícone do Instagram no rodapé que, ao ser clicado, redirecione para a rede social da empresa.
 
-# T4 - Funcionalidades
+
 
 ## T4.1: Seção "Amplie seu alcance online"
 
@@ -103,6 +103,38 @@ Deve haver uma sessão chamada "Amplie seu alcance online" para guias de turismo
 Deve haver uma sessão chamada "Conecte sua marca com aventureiros" para anunciantes.
 
 
+
+## T5.1: Página sobre o Sistema de Gameficação
+
+Deve ter uma página que explique o sistema de gameficação do aplicativo.
+
+## T5.2: Insígnias Possíveis
+
+Deve mostrar as insígnias possíveis de serem conquistadas.
+
+## T5.3: Exemplos de Conquista de Insígnias
+
+Deve mostrar exemplos de como conquistar as insígnias.
+
+
+
+## T6.1: Demonstração do Design
+
+O sistema deve mostrar o design do app, com base em cores, tipografias e ícones semelhantes.
+
+
+
+## T7.1: Página sobre a Empresa
+
+Deve haver uma página exibindo a empresa, apresentando a trajetória, membros, etc.
+
+## T8.1: Página com Passeios Guiados
+
+Deve ter uma página com os principais passeios guiados.
+
+## T9.1: Botão "Saiba Mais"
+
+Deve ter um botão "Saiba Mais" que redireciona para informações de passeios específicos.
 
 
 ___
